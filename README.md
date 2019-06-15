@@ -1,2 +1,2 @@
 # SoberBot
-A bot pulls you out of overthinking.
+A bot pulls you out of heatbroken.
